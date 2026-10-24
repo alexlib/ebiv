@@ -4,3 +4,4 @@ sample_data/wallflow4_dense_3.evt
 *.pyc
 pyebiv.egg-info
 build
+uv.lock
